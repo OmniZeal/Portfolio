@@ -1,0 +1,24 @@
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\bin\Debug\Semster Project.exe.config
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.main.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Resources.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.SplashScreen1.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster Project.vbproj.GenerateResource.Cache
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_2.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\bin\Debug\Semster Project.exe
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\bin\Debug\Semster Project.pdb
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\bin\Debug\Semster Project.xml
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster Project.exe
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster Project.xml
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster Project.pdb
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_1.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_3.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.highscore.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_10.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_4.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_5.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_6.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_7.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_8.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.Question_9.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.You_Win.resources
+C:\Users\Mark Rogers\OneDrive\School\2016 SPRING\BISM 3000\Semster Project\Semster Project\obj\Debug\Semster_Project.How_To_Play.resources
